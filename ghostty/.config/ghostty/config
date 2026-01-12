@@ -1,0 +1,6 @@
+font-family = CommitMonoNF-Regular
+theme = Kanagawa Dragon 
+cursor-color = #00ff00
+cursor-style = block
+cursor-style-blink = false
+custom-shader = ./shaders/in-game-crt-cursor.glsl
